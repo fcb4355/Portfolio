@@ -175,7 +175,7 @@ body {
     display: flex;
     align-items: center;
     height: calc(100vh - 80px);
-    background: url(/images/landing-background.png);
+    background: url(images/landing-background.png);
     background-repeat: no-repeat;
     background-position: right bottom;
     background-size: 80%;
